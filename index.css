@@ -1,0 +1,17 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    padding: 10%;
+    text-align: center;
+    background-color: #5dcf90;
+    color: white;
+}
+
+button{
+    color: white;
+    background-color: #379C84;
+    padding: 3%;
+    border-radius: 2%;
+}
