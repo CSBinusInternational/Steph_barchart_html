@@ -1,0 +1,74 @@
+button{
+    color: white;
+    background-color: #379C84;
+    padding: 1%;
+    border-radius: 2%;
+    cursor: pointer;
+}
+.nav{
+    background-color: #379C84;
+}
+.title{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 40px;
+    color: white;
+}
+
+.pie{
+    margin: 10px;
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    background: conic-gradient(#ba9c49 0% 21%, #4985ba 21% 30%, #ad4942 30% 70%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.legend{
+    padding-left: 10px;
+    height: 100px;
+    width: 140px;
+}
+.color{
+    height: 20px;
+    width: 20px;
+    margin-right: 10px;
+}
+#sColor{
+    background-color: #ad4942;
+}
+
+#qColor{
+    background-color:#4985ba;
+}
+
+#cColor{
+    background-color: #ba9c49;
+}
+
+.C{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.S{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.Q{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
